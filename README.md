@@ -1,4 +1,4 @@
-<h1>hi</h1>
+<h1>Handwriting Recognition App</h1>
 
 A new Flutter project.
 
